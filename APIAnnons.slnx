@@ -1,3 +1,7 @@
 <Solution>
+  <Folder Name="/Solution Items/">
+    <File Path="image/readme-APIAnnons.png" />
+    <File Path="README.md" />
+  </Folder>
   <Project Path="APIAnnons.Api/APIAnnons.Api.csproj" />
 </Solution>
